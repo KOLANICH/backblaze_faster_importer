@@ -1,0 +1,4 @@
+#pragma once
+static const char VERSION_STR[] = "@FasterImport_VERSION@";
+#cmakedefine CPP_DIR_ITERATION_WORKS
+#cmakedefine DIRENT_PRESENT
